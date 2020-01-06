@@ -8,10 +8,10 @@ beforeEach(() => {
   useStaticQuery.mockImplementationOnce(() => ({
     site: {
       siteMetadata: {
-        title: "Ravan Scafi",
-        description: "Ravan Scafi's personal website.",
-        author: "Ravan Scafi",
-        siteUrl: "https://ravan.me",
+        title: "Corgi Awesome",
+        description: "Corgi Dog Breed Information.",
+        author: "corgiawesome",
+        siteUrl: "https://corgiawesome.com",
       },
     },
     image: {
