@@ -1,18 +1,18 @@
 module.exports = {
   siteMetadata: {
-    title: `Ravan Scafi`,
-    author: `Ravan Scafi`,
-    description: `Ravan Scafi's personal website.`,
-    siteUrl: `https://ravan.me`,
+    title: `Corgi Awesome`,
+    author: `Corgiawesome`,
+    description: `Corgi Dog Breed Information.`,
+    siteUrl: `https://Corgiawesome.com`,
     repository: {
       name: "GitHub",
-      url: "https://github.com/ravanscafi/ravan.me",
+      url: "https://github.com/Corgiawesome",
     },
     social: {
-      twitter: `ravanscafi`,
-      github: `ravanscafi`,
-      exercism: `ravanscafi`,
-      linkedin: `ravanscafi`,
+      twitter: `Corgiawesome`,
+      github: `Corgiawesome`,
+      exercism: `Corgiawesome`,
+      linkedin: `Corgiawesome`,
       stackoverflow: `804741/ravan-scafi`,
     },
   },
