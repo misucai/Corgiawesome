@@ -42,49 +42,8 @@ function Bio(props) {
         />
       </div>
       <div style={{ flex: "1 1 auto" }}>
-        {props.children}I am a web developer living in São Paulo - Brazil.
-        <div style={{ marginTop: rhythm(1) }}>
-          <a
-            title="Twitter"
-            className="social-icon twitter"
-            href={`https://twitter.com/${social.twitter}`}
-            rel="nofollow"
-          >
-            <Twitter className="icon" />
-          </a>
-          <a
-            title="GitHub"
-            className="social-icon github"
-            href={`https://github.com/${social.github}`}
-            rel="nofollow"
-          >
-            <Github className="icon" />
-          </a>
-          <a
-            title="Exercism"
-            className="social-icon exercism"
-            href={`https://exercism.io/profiles/${social.exercism}`}
-            rel="nofollow"
-          >
-            <Exercism className="icon" />
-          </a>
-          <a
-            title="Stack Overflow"
-            className="social-icon stackoverflow"
-            href={`https://stackoverflow.com/users/${social.stackoverflow}`}
-            rel="nofollow"
-          >
-            <Stackoverflow className="icon" />
-          </a>
-          <a
-            title="Linkedin"
-            className="social-icon linkedin"
-            href={`https://www.linkedin.com/in/${social.linkedin}`}
-            rel="nofollow"
-          >
-            <Linkedin className="icon" />
-          </a>
-        </div>
+        {props.children}Corgi Dog Breed Information..
+
       </div>
     </div>
   )
