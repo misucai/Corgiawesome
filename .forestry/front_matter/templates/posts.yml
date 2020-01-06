@@ -20,5 +20,3 @@ fields:
 - type: file
   name: cover
   label: cover
-pages:
-- content/blog/houve-uma-evolução-para.md
