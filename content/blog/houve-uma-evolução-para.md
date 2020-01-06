@@ -1,11 +1,11 @@
 ---
 title: Houve uma evolução para
-date: 2020-01-05T16:00:00Z
+date: 2020-01-05T16:00:00.000+00:00
 description: Hamburger-Menus-Sausage-Links
 tags:
 - Hamburger
 draft: false
-cover: images/3D Tab bar.gif
+cover: images/Best-Laravel-Books.jpg
 
 ---
 Houve uma evolução paraHouve uma evolução paraHouve uma evolução paraHouve uma evolução paraHouve uma evolução para
