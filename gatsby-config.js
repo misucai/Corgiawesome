@@ -78,7 +78,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-51569123-1`,
+        trackingId: `UA-51333333-1`,
       },
     },
     {
@@ -139,8 +139,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Ravan Scafi`,
-        short_name: `ravan.me`,
+        name: `Corgi Awesome`,
+        short_name: `corgiawesome.com`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#373435`,
@@ -162,14 +162,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://ravan.me`,
+        siteUrl: `https://corgiawesome.com`,
         stripQueryString: true,
       },
     },
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `ravan-me`,
+        shortname: `corgiawesome`,
       },
     },
   ],
