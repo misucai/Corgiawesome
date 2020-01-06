@@ -5,7 +5,7 @@ description: Hamburger-Menus-Sausage-Links
 tags:
 - Hamburger
 draft: false
-cover: images/Best-Laravel-Books.jpg
+cover: "./imges/Best-Microsoft-Certificatio.jpg"
 
 ---
 Houve uma evolução paraHouve uma evolução paraHouve uma evolução paraHouve uma evolução paraHouve uma evolução para
