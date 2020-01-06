@@ -1,11 +1,11 @@
 {
-  "name": "ravan.me",
+  "name": "corgiawesome.com",
   "private": true,
-  "description": "Ravan Scafi's personal website.",
+  "description": "Corgi Dog Breed Information.",
   "version": "0.1.0",
-  "author": "Ravan Scafi <hello@ravan.me>",
+  "author": "corgiawesome <hello@corgiawesome.me>",
   "bugs": {
-    "url": "https://github.com/ravanscafi/ravan.me"
+    "url": "https://github.com/corgiawesome/corgiawesome"
   },
   "dependencies": {
     "@weknow/gatsby-remark-twitter": "^0.2.1",
