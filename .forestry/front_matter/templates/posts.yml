@@ -20,3 +20,5 @@ fields:
 - type: file
   name: cover
   label: cover
+pages:
+- content/blog/the-imperial-japanese-navy-in-the-pacific-war.md
