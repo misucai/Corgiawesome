@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Corgi Awesome`,
     author: `Corgiawesome`,
-    description: `Corgi Dog Breed Information.`,
+    description: `Corgi Dog Breed Information`,
     siteUrl: `https://Corgiawesome.com`,
     repository: {
       name: "GitHub",
