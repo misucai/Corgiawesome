@@ -14,7 +14,7 @@ const BlogIndex = ({
   location,
 }) => (
   <Layout location={location}>
-    <SEO title="Home" />
+
     <PostList posts={edges} />
   </Layout>
 )
