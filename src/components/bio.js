@@ -42,7 +42,7 @@ function Bio(props) {
         />
       </div>
       <div style={{ flex: "1 1 auto" }}>
-        {props.children}Corgi Dog Breed Information..
+        {props.children}Corgi Dog Breed Information.
 
       </div>
     </div>
