@@ -77,9 +77,7 @@ const Layout = ({ location, children }) => {
         {` `}
         <Heart className="icon" color="#f00" /> using
         {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
-        <span style={{ padding: `0 .5rem` }}>&bull;</span>
-        See the project on <a href={repository.url}>{repository.name}</a>
+        <a href="https://Corgiawesome.com">Corgi Awesome</a>     
       </footer>
     </div>
   )
